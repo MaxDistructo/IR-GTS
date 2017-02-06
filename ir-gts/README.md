@@ -6,9 +6,9 @@ IR-GTS should be platform-independent, and has been tested on Windows, Linux and
 
 ## Requirements
 
-Python 2.7 (Available from http://www.python.org)
-DS Pokemon game, and the proper version of IR-GTS for that game
-Wireless network
+Python 2.7 (Available from http://www.python.org),
+DS Pokemon game and the proper version of IR-GTS for that game,
+Wireless network,
 Administrator access to your computer
 ## How-To
 
