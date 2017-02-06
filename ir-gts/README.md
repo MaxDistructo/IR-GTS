@@ -29,7 +29,7 @@ As of Version 0.30, this will now create (or add to) a statlog.txt file with the
 Receive multiple Pokemon from the DS game (m)
 This works precisely the same way as above, except it won't dump you back to the menu after receiving each one. There is no need to exit and re-enter the GTS for this function. Press (Control) + (C) to return to the main menu.
 
-Support
+## Support
 
 If the window closes without warning, it's probably encountered an error. Try running the program from a Command Prompt, as it won't close the window that way, and you can then view the full error message. See CommandPrompt for instructions.
 
